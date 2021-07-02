@@ -1,0 +1,47 @@
+body{
+	background:green;
+	}
+a{
+	text-decoration:none;
+	color:white;
+}
+header{
+	text-align:center;
+	color:white; 
+	font-family: 'Raleway', sans-serif;
+	background:black
+}
+.panda_who{
+	color:white;
+	font-family: 'Raleway', sans-serif;
+	text-align:left; 
+	width: 60%;
+	display:inline-block;
+}
+.png1{
+	border: 6px solid white;
+	border-radius:10px;
+	width: 20%;
+}
+.png2{
+	border: 6px solid white;
+	border-radius:10px;
+	width: 20%;
+	margin-left: 30%;
+}
+.onas{
+	color:white;
+	font-family: 'Raleway', sans-serif;
+	text-align:left; 
+	width: 40%;
+	margin-left: 3%;
+	display:inline-block;
+}
+.gdemi{
+	color:white;
+	font-family: 'Raleway', sans-serif;
+	text-align:left; 
+	width: 60%;
+	display:inline-block;
+}
+ 
